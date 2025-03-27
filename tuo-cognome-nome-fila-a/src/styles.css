@@ -1,4 +1,27 @@
-img {
-    filter: grayscale(100%);
+.app-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  .app-text {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .first-text {
+    color: orange;
+    font-weight: bold;
+  }
+  
+  .second-text {
+    color: brown;
+    font-weight: bold;
+  }
+  
+  .third-text {
+    color: #66ccff;
+    font-weight: bold;
   }
   
